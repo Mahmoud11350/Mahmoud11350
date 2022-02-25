@@ -1,7 +1,7 @@
 - # Welcome to my little corner of the internet. I try to spend most of my time making things for people who make things.
 - ## 👋 I’m Mahmoud Salah
 - ## 👀 I’m Fullstack MERN Developer
-- [Prtfolio](https://mahmoud-beta.vercel.app/)
+- ## [Portfolio](https://mahmoud-beta.vercel.app/)
 - 📫 How to reach me 
         mahmoudsalah11350@gmail.com
 
