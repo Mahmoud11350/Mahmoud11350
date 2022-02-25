@@ -1,4 +1,4 @@
-- **Welcome to my little corner of the internet. I try to spend most of my time making things for people who make things.
+- # Welcome to my little corner of the internet. I try to spend most of my time making things for people who make things.
 - ## 👋 I’m Mahmoud Salah
 - ## 👀 I’m Fullstack MERN Developer
 - 📫 How to reach me 
